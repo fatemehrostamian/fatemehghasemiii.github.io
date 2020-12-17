@@ -1,6 +1,6 @@
 
  <div dir="rtl">
- <img src="https://github.com/fatemehrostamian/fatemehrostamian.github.io/blob/master/pic.png">
+ <img src="pic.png">
  <br>
  درباره من
  <br>
