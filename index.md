@@ -1,5 +1,5 @@
 ### fatemeh rostamian
-<https://github.com/fatemehrostamian/fatemehrostamian.github.io/blob/master/pic.png>
+<img src="pic.png">
 
 ### intro
 
