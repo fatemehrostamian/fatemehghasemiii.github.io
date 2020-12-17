@@ -1,11 +1,11 @@
 ### fatemehghasemi Niyasar
-<img src="pic.jpeg">
+<img src="">
 
 ### intro
 
 
-+ Birthdate 1999,11,9
-+ Bachelor
++ Birthdate 1990,6,7
++ married
 + Now i am a Bachelors students in computer Engineering
 + Iran,Tehran province 
 
@@ -13,13 +13,10 @@
 
 
 
-+ network plus
-+ linux 
-+ java script
++ network 
 + word
 + PowerPoint 
-+ Excel
-+ Photoshop
+
 
 ### Behavioral strengths
 
@@ -32,8 +29,7 @@
 ### Education
 
 
-+ diploma: froq andishe High School
- -2017
++ diploma: 2005
 + Bachelor of science: Computer Engineering 
 +  -2018, Payam Noor University of Tehran
 
@@ -58,9 +54,8 @@
 ### Social Media
 
 
-+ https://facebook.com/FatemehGhasemi 
-+ https://Instagram.com/miss.f7420
-+ fatemehghasemi78780@gmail.com 
+
++ farostamean1369@gmail.com 
  
 
 
