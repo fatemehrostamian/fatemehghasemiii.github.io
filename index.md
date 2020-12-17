@@ -1,12 +1,12 @@
 ### fatemeh rostamian
-<img src="https://github.com/fatemehrostamian/fatemehrostamian.github.io/blob/master/pic.png">
+<https://github.com/fatemehrostamian/fatemehrostamian.github.io/blob/master/pic.png>
 
 ### intro
 
 
 + Birthdate 1990,6,7
 + married
-+ Now i am a Bachelors students in computer Engineering
++ Now i am a Bachelors students in Information Technology
 + Iran,Tehran province 
 
 ### Skill Highlights
@@ -30,8 +30,8 @@
 
 
 + diploma: 2005
-+ Bachelor of science: Computer Engineering 
-+  -2018, Payam Noor University of Tehran
++ Bachelor of science: Information Technology
++  -2014, Payam Noor University of Tehran
 
 ### Other Skills
 
