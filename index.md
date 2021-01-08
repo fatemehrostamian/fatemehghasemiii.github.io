@@ -17,15 +17,6 @@
 + word
 + PowerPoint 
 
-
-### Behavioral strengths
-
-+ Communication skill
-+ Accountability
-+ Adaptability
-+ Problem-Solving and decision-making
-+ Mentoring 
-
 ### Education
 
 
